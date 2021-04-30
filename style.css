@@ -24,7 +24,7 @@ section p {
 }
 
 .text{
-    /* width: 100%; */
+    width: 100%;
     opacity: 0;
     margin-top: 50px;
     transform: translateY(50px);
